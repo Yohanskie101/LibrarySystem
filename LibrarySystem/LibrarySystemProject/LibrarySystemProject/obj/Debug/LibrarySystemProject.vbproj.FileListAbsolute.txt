@@ -1,0 +1,500 @@
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu2.resources
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu3.resources
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+c:\users\qcu\documents\visual studio 2012\Projects\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu2.resources
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu3.resources
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+E:\1 SBIT2E 1st Sem\3 PF101\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu2.resources
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu3.resources
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\LibrarySystemProject\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu2.resources
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu3.resources
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\TestSystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pinakatesting - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransacHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransacHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemBACKUP\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransacHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransacHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransacHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemReal - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal (TESTING)USEHERE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\Pf101LibrarySystemRealDeal\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\QCU\Desktop\FileHandling\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+E:\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\Ryzen 3\Documents\TESTING OVERDUE\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\Ryzen 3\Documents\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\BorrowForeignKeys.accdb
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\Ryzen 3\Desktop\Systems\INVENTORYSYSTEM - Copy\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem(Oracle)\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe.config
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.xml
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.books.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.BooksInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Borrow.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Form1.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserBooksInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ForUserInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ManageUsers.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Menu1.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.Resources.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.overdue.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RECEIPT.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.RegFormvb.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.ReturnBooks.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.TransactionHistory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.User.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserBorrow.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserReturnBooks.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UsersInventory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.UserTransactionHistory.resources
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\obj\Debug\LibrarySystemProject.vbproj.GenerateResource.Cache
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\Borrow.accdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\CRUD.accdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\DatabaseLoginNew.accdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.exe
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.pdb
+C:\Users\Ryzen 3\Desktop\Systems\LibrarySystem\LibrarySystemProject\LibrarySystemProject\bin\Debug\LibrarySystemProject.xml

@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0B1C0A57-E944-4250-AF56-4685747B68F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>LibrarySystemProject.My.MyApplication</StartupObject>
+    <RootNamespace>LibrarySystemProject</RootNamespace>
+    <AssemblyName>LibrarySystemProject</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LibrarySystemProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LibrarySystemProject.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="books.designer.vb">
+      <DependentUpon>books.vb</DependentUpon>
+    </Compile>
+    <Compile Include="books.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BooksInventory.designer.vb">
+      <DependentUpon>BooksInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BooksInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Borrow.designer.vb">
+      <DependentUpon>Borrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Borrow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BorrowDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BorrowDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="CRUDDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CRUDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatabaseLoginNewDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabaseLoginNewDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForUserBooksInventory.designer.vb">
+      <DependentUpon>ForUserBooksInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForUserBooksInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ForUserInventory.designer.vb">
+      <DependentUpon>ForUserInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ForUserInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ManageUsers.Designer.vb">
+      <DependentUpon>ManageUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu1.Designer.vb">
+      <DependentUpon>Menu1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="overdue.designer.vb">
+      <DependentUpon>overdue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="overdue.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RECEIPT.designer.vb">
+      <DependentUpon>RECEIPT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RECEIPT.vb" />
+    <Compile Include="RegFormvb.Designer.vb">
+      <DependentUpon>RegFormvb.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegFormvb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnBooks.designer.vb">
+      <DependentUpon>ReturnBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TransactionHistory.designer.vb">
+      <DependentUpon>TransactionHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TransactionHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.designer.vb">
+      <DependentUpon>User.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserBorrow.designer.vb">
+      <DependentUpon>UserBorrow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserBorrow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserReturnBooks.designer.vb">
+      <DependentUpon>UserReturnBooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserReturnBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersInventory.designer.vb">
+      <DependentUpon>UsersInventory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UsersInventory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UserTransactionHistory.designer.vb">
+      <DependentUpon>UserTransactionHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserTransactionHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="books.resx">
+      <DependentUpon>books.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BooksInventory.resx">
+      <DependentUpon>BooksInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Borrow.resx">
+      <DependentUpon>Borrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForUserBooksInventory.resx">
+      <DependentUpon>ForUserBooksInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ForUserInventory.resx">
+      <DependentUpon>ForUserInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ManageUsers.resx">
+      <DependentUpon>ManageUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu1.resx">
+      <DependentUpon>Menu1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="overdue.resx">
+      <DependentUpon>overdue.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RECEIPT.resx">
+      <DependentUpon>RECEIPT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegFormvb.resx">
+      <DependentUpon>RegFormvb.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnBooks.resx">
+      <DependentUpon>ReturnBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TransactionHistory.resx">
+      <DependentUpon>TransactionHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserBorrow.resx">
+      <DependentUpon>UserBorrow.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserReturnBooks.resx">
+      <DependentUpon>UserReturnBooks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersInventory.resx">
+      <DependentUpon>UsersInventory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserTransactionHistory.resx">
+      <DependentUpon>UserTransactionHistory.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="BorrowDataSet.xsc">
+      <DependentUpon>BorrowDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BorrowDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BorrowDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BorrowDataSet.xss">
+      <DependentUpon>BorrowDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CRUDDataSet.xsc">
+      <DependentUpon>CRUDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="CRUDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CRUDDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="CRUDDataSet.xss">
+      <DependentUpon>CRUDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseLoginNewDataSet.xsc">
+      <DependentUpon>DatabaseLoginNewDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabaseLoginNewDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabaseLoginNewDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabaseLoginNewDataSet.xss">
+      <DependentUpon>DatabaseLoginNewDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1LoginFormBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2ProfilePictureBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6BorrowBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5ReturnBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4BooksBG.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3BorrowersBG.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2ProfilePictureBG1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1LoginFormBG1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7OverdueBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8ManageUsersBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9CategoriesBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10BooksInventoryBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11UserLogsBG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12LibraryBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13LibraryBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14LibraryBG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Borrow.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="CRUD.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DatabaseLoginNew.accdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\shopping-cart.png" />
+    <None Include="Resources\Free_Sample_By_Wix.jpg" />
+    <None Include="Resources\LogInFormBg.jpeg" />
+    <None Include="Resources\instagram.png" />
+    <None Include="Resources\twitter.png" />
+    <None Include="Resources\facebook.png" />
+    <None Include="Resources\bigsale.gif" />
+    <None Include="Resources\logout.png" />
+    <None Include="Resources\return.png" />
+    <None Include="Resources\clock-in.png" />
+    <None Include="Resources\book.png" />
+    <None Include="Resources\receipt.png" />
+    <None Include="Resources\chest.png" />
+    <None Include="Resources\open-book.png" />
+    <None Include="Resources\BookBtn.png" />
+    <None Include="Resources\management.png" />
+    <None Include="Resources\UserUser.png" />
+    <None Include="Resources\online-library.png" />
+    <None Include="Resources\RealUserButton.png" />
+    <None Include="Resources\UserButton.png" />
+    <None Include="Resources\UserDashboard.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\REALPROFILE.png" />
+    <None Include="Resources\profile.png" />
+    <None Include="Resources\OtherKey.png" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\IDPROFILE.png" />
+    <None Include="Resources\CuteBlackBG.jpg" />
+    <None Include="Resources\AmazingBG.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
